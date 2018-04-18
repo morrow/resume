@@ -1,0 +1,24 @@
+.Introduction {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.Introduction ul {
+  text-align: left;
+}
+
+.Introduction #languages-frameworks-technologies ul {
+  text-align: center;
+}
+
+.Introduction #languages-frameworks-technologies li {
+  background: #eee;
+  display: inline-block;
+  margin:0.5em;
+  font-weight:bold;
+  padding: 0.25em 0.5em;
+  border:1px solid #ddd;
+  border-radius:2px;
+  box-shadow:2px 2px 1px #efefef;
+  font-size:14px;
+}
