@@ -1,0 +1,11 @@
+#projects li {
+  font-weight: bold;
+}
+
+.portfolios a {
+  margin-left: 1em;
+}
+
+.portfolios a svg {
+  padding-right: 0.25em;
+}

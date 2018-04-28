@@ -1,0 +1,9 @@
+#contact {
+  text-align: center;
+}
+
+#contact div {
+  display: inline-block;
+  margin-right:2em;
+  margin-bottom: 0.5em;
+}
